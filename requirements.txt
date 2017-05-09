@@ -1,0 +1,4 @@
+cherrypy==10.2.1
+requests
+beautifulsoup4
+redis
